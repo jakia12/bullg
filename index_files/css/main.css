@@ -28718,7 +28718,7 @@ button {
 .primary-btn a {
   padding: 13px 30px;
   display: inline-block;
-  background: linear-gradient(92.29deg, #fe0000 -9.05%, #fbdf33 103.12%);
+  background: linear-gradient(92.29deg, #9747ff -9.05%, #14f194 103.12%);
   font-size: 14px;
   color: #fff;
   font-family: "Inter", sans-serif;
@@ -28736,7 +28736,7 @@ button {
   width: 100%;
   height: 100%;
   top: 0;
-  background: linear-gradient(92.29deg, #fbdf33 -9.05%, #fbdf33 103.12%);
+  background: linear-gradient(92.29deg, #9d6161 -9.05%, #9d6161 103.12%);
   z-index: -1;
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
@@ -28766,7 +28766,7 @@ button {
   padding: 12px 30px;
 }
 .btn.np-primary-btn {
-  background-image: linear-gradient(#fe0000, #e4790b);
+  background-image: linear-gradient(#9747ff, #14f194);
   z-index: 1;
   overflow: hidden;
 }
